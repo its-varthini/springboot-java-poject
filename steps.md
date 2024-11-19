@@ -1,3 +1,11 @@
+#### -----JDK & Maven Installation----
+
+```shell
+sudo apt-get update -y
+sudo apt install openjdk-11-jre -y
+sudo apt-get install maven -y
+```
+
 ## To Build & Run This project, follow the steps.
 
 --> Clone the Project
